@@ -1,5 +1,10 @@
+body{
+    font-family: Poppins;
+}
 h1{
-    font-size: 2em;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+h1 span{
+    color: orange;
 }
